@@ -1,1 +1,1 @@
-Xin chào mọi người trên đây là write up của mình mọi người nếu có thể tham khảo nhé 
+Xin chào mọi người trên đây là write up của mình trong quá trình học tập và chơi ctf mọi người có thể tham khảo và giải lại nhé cảm ơn đã ghé qua
